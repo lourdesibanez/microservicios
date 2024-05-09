@@ -1,0 +1,18 @@
+<table>
+            <tr>
+                <th>Casa</th>
+                <th>Nombre</th>
+                <th>Fecha Actualizacion</th>
+                <th>Compra</th>
+                <th>Venta</th>
+            </tr>
+            #foreach($d in $dolar)
+                <tr>
+                    <td>$d.getCasa()</td>
+                    <td>$d.getNombre()</td>
+                    <td>$d.getFechaActualizacion()</td>
+                    <td>$d.getCompra()</td>
+                    <td>$d.getVenta()</td>
+                </tr>
+            #end
+</table>

@@ -1,0 +1,5 @@
+#include("templates/encabezado.html");
+    <body>
+        #parse( $template )
+    </body>
+#include("templates/pie.html");

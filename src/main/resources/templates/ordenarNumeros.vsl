@@ -1,0 +1,36 @@
+<div> 
+        <p>
+            <label for="n0">Numero 0: </label>
+            <input type="text" id="n0">
+        </p>  
+        <p>
+            <label for="n1">Numero 1: </label>
+            <input type="text" id="n1">
+        </p>
+        <p>
+            <label for="n2">Numero 2: </label>
+            <input type="text" id="n2">
+        </p>
+        <p>
+            <label for="n3">Numero 3: </label>
+            <input type="text" id="n3">
+        </p>
+        <p>
+            <label for="n4">Numero 4: </label>
+            <input type="text" id="n4">
+        </p>
+        <p>
+            <label for="n5">Numero 5: </label>
+            <input type="text" id="n0">
+        </p>
+        <p>
+            <label for="n6">Numero 6: </label>
+            <input type="text" id="n6">
+        </p>
+        <input type="button" value="Ordenar">
+        <input type="button" value="Desordenar">
+    </div>
+<div style="margin-left: 50%;">
+    <p><strong>Cantidad de numeros: </strong></p>
+    <p>Lista de numeros: </p>
+</div>
